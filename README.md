@@ -22,4 +22,4 @@ docker run -it assignment2
 ```
 ## Example of Rail Fence Cipher
 Here is an example of rail fence cipher when you're running docker container
-![cipher] cipher.JPG
+![cipher] (cipher.JPG)
